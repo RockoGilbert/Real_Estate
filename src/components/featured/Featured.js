@@ -27,7 +27,7 @@ const Featured = () => {
                 <img src={Bathroom} alt='' />
                 <div className='span-3 img-details'>
                     <div className='top'>
-                        <h2>123 Acme St. Dallas, TX</h2>
+                        <h2>123 don't quit dr. Tulsa, OK</h2>
                         <p>House for Sale</p>
                         <p className='price'>$2,677,000</p>
                     </div>
@@ -51,7 +51,7 @@ const Featured = () => {
                     </div>
                 </div>
                 <div className='span-2 right-img-details'>
-                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Texas. Including media room, workout facility, and built-in sauna. </p>
+                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Oklahoma including media room, workout facility, and built-in sauna. </p>
                     <button className='btn'>View Listing</button>
                 </div>
             </div>
@@ -68,14 +68,14 @@ const Featured = () => {
                 <img className='order-5' src={LivingRoom} alt='' />
 
                 <div className='span-2 right-img-details order-7'>
-                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Texas. Including media room, workout facility, and built-in sauna. </p>
+                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Oklahoma. Including media room, workout facility, and built-in sauna. </p>
                     <button className='btn'>View Listing</button>
                 </div>
 
 
                 <div className='span-3 img-details order-6'>
                     <div className='top'>
-                        <h2>123 Acme St. Dallas, TX</h2>
+                        <h2>123 A</h2>
                         <p>House for Sale</p>
                         <p className='price'>$2,677,000</p>
                     </div>
