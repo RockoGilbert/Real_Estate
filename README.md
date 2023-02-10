@@ -2,8 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Take a look
+https://real21estate.netlify.app/
 
+![hero_estate](https://user-images.githubusercontent.com/70171772/218096601-233e83e7-2fa3-4051-9c5c-3095adecab3f.png)
+
+![estate2](https://user-images.githubusercontent.com/70171772/218096524-41e3ac1b-ab2b-4c92-be81-cef6acdbe159.png)
+
+![estate3](https://user-images.githubusercontent.com/70171772/218096610-78d0a023-5c8b-4e06-81e0-4006196a02f6.png)
+
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
